@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ut-the-pro
+- 👋 Hi, I’m @utkrs01 [Utkarsh Gupta]
 - 👀 I’m interested in dancing, singing, learning new things and keeping pace with the world.
-- 🌱 I’m currently in my first year doing B.Tech in Computer Science from IIT Delhi
+- 🌱 I’m currently in my second year doing B.Tech in Computer Science from IIT Delhi
 - 💞️ I’ve just started into the world of coding and I'm experimenting along the way.
 - 📫 Reach me at utkarsh11105@gmail.com 
 
